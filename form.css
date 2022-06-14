@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    
+    background-color: rgb(242, 185, 191);
+    position: relative;
+    transition: background 0.5s ease;
+}
+h1{
+    
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
